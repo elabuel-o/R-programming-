@@ -1,6 +1,10 @@
 
-## README file 
+## R-programming course -- Coursera, February 2016
+### Part of the Coursera Data Science Specialization
 
-### Week 2 of R-programming course. Coursera, February 2016.
+This repo contains R scripts for quizzes and programming assignments of the R-programming course.
 
-R scrpits for the Week 2 programming assignment.
+### Disclaimer
+You must always follow the Coursera Honor Code and answers the quiz questions with your own work.
+
+
